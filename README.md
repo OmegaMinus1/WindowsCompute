@@ -1,7 +1,7 @@
 WindowsCompute
 
 
-Windows Sample app of Sign Distance Field Rendering(SDF) in OpenCL-DX
+Windows Sample app of Sign Distance Field Rendering(SDF) in OpenCL-DX11
 
 [This is the sorta same output of the app - Live WebGL](https://www.vectorgenesis.net)
 
