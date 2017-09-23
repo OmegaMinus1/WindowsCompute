@@ -1,9 +1,0 @@
-﻿  vector3.cpp
-  OpenCL20.cpp
-  main.cpp
-c:\users\matthew\documents\visual studio 2017\projects\opencldirectx11\opencldirectx11\main.cpp(264): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\matthew\documents\visual studio 2017\projects\opencldirectx11\opencldirectx11\main.cpp(270): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
-  DirectX11.cpp
-  Generating Code...
-  OpenCLDirectX11.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2017\Projects\OpenCLDirectX11\x64\Debug\OpenCLDirectX11.exe
-  OpenCLDirectX11.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2017\Projects\OpenCLDirectX11\x64\Debug\OpenCLDirectX11.pdb (Partial PDB)

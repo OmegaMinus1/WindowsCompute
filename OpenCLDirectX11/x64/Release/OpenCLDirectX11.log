@@ -1,9 +1,0 @@
-﻿  DirectX11.cpp
-  main.cpp
-  OpenCL20.cpp
-  vector3.cpp
-  Generating code
-  All 122 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  OpenCLDirectX11.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2017\Projects\OpenCLDirectX11\x64\Release\OpenCLDirectX11.exe
-  OpenCLDirectX11.vcxproj -> C:\Users\Matthew\Documents\Visual Studio 2017\Projects\OpenCLDirectX11\x64\Release\OpenCLDirectX11.pdb (Full PDB)
